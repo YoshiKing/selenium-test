@@ -1,0 +1,5 @@
+# .settingsファイルはコミット対象外
+.settings
+# binフォルダはコミット対象外
+bin
+
